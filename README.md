@@ -1,9 +1,9 @@
 # Prework-Calculator
 Author: Biniam
 
-# Create a very basic, 4 function calculator within a console application.
+# Create a basic, 4 function calculator within a console application.
 
-# Specs:
+# It should include:
 Inside the Program.cs file of your console application you should have 4 external methods plus the Main method:
 Add()
 Subtract()
