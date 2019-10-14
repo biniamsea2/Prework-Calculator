@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prework-Calculator", "Prework-Calculator\Prework-Calculator.csproj", "{13F5B785-65E0-4D77-B907-80A816D89F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F5B785-65E0-4D77-B907-80A816D89F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F5B785-65E0-4D77-B907-80A816D89F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F5B785-65E0-4D77-B907-80A816D89F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F5B785-65E0-4D77-B907-80A816D89F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DD41D0-1B95-4497-8774-F8CAA252838C}
+	EndGlobalSection
+EndGlobal
