@@ -6,7 +6,11 @@ Author: Biniam
 # It should include:
 Inside the Program.cs file of your console application you should have 4 external methods plus the Main method:
 Add()
-![alt text](https://github.com/biniamsea2/Prework-Calculator/screenshots/Screenshot (12).png
+
+
+![alt text](https://github.com/biniamsea2/Prework-Calculator/blob/master/screenshots/Screenshot%20(12).png "Menu")
+
+
 Subtract()
 Multiply()
 Divide()
