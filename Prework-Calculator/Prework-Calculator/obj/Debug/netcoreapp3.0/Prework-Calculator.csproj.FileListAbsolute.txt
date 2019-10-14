@@ -1,0 +1,11 @@
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp3.0\Prework-Calculator.exe
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp3.0\Prework-Calculator.deps.json
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp3.0\Prework-Calculator.runtimeconfig.json
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp3.0\Prework-Calculator.runtimeconfig.dev.json
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp3.0\Prework-Calculator.dll
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\bin\Debug\netcoreapp3.0\Prework-Calculator.pdb
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp3.0\Prework-Calculator.csprojAssemblyReference.cache
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp3.0\Prework-Calculator.AssemblyInfoInputs.cache
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp3.0\Prework-Calculator.AssemblyInfo.cs
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp3.0\Prework-Calculator.dll
+C:\Users\kifle\Desktop\Coding\labs401\Prework-Calculator\Prework-Calculator\Prework-Calculator\obj\Debug\netcoreapp3.0\Prework-Calculator.pdb
